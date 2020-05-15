@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20200515text1.cpp">
+    <ClCompile Include="text3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="text3.cpp">
+    <ClCompile Include="funtions.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
